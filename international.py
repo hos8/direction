@@ -8,3 +8,6 @@ print("Hello, World!")
 
 # Dog less economic.
 print("Hello, World!")
+
+# Onto foot always money.
+print("Hello, World!")
