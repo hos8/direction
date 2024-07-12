@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Partner per director another deep.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
