@@ -17,3 +17,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Look security tough for ok lawyer knowledge.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
