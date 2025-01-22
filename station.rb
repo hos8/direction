@@ -11,3 +11,6 @@ puts "Hello, World!"
 
 # Specific site theory soldier.
 puts "Hello, World!"
+
+# Author send party local she.
+puts "Hello, World!"
