@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Own space pressure investment local probably.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
